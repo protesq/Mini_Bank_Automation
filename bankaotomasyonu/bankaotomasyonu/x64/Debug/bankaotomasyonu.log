@@ -1,0 +1,5 @@
+﻿  bankaotomasyonu.cpp
+C:\Users\ydm00\source\repos\bankaotomasyonu\bankaotomasyonu\bankaotomasyonu.cpp(123,22): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ydm00\source\repos\bankaotomasyonu\bankaotomasyonu\bankaotomasyonu.cpp(124,22): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+C:\Users\ydm00\source\repos\bankaotomasyonu\bankaotomasyonu\bankaotomasyonu.cpp(125,22): warning C4305: 'başlatılıyor': 'double' iken 'float' olarak kesildi
+  bankaotomasyonu.vcxproj -> C:\Users\ydm00\source\repos\bankaotomasyonu\x64\Debug\bankaotomasyonu.exe
